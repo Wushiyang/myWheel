@@ -1,0 +1,23 @@
+{
+  "name": "myWheel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wushiyang/myWheel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wushiyang/myWheel/issues"
+  },
+  "homepage": "https://github.com/Wushiyang/myWheel#readme",
+  "dependencies": {
+    "vue": "^3.0.2",
+    "webpack": "^5.5.1",
+    "webpack-cli": "^4.2.0"
+  }
+}
