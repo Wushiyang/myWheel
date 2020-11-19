@@ -1,0 +1,1 @@
+IE8 ES3 未定义属性会报错，所以用typeof a !== 'undefined' 判断来绕过错误
